@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,GACE,SAAU,CACV,qBAAsB","file":"style.5c56c994.css","sourceRoot":"../src","sourcesContent":["h1 {\n  color: red;\n  background-color: blue;\n}\n"]}
